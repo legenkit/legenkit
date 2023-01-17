@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I am a Game Developer and an artist . I choose my Development Passion on 25 may 2020 
 
 <!--
 **legenkit/legenkit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
